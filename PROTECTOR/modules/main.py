@@ -28,7 +28,7 @@ Devs = ["7044783841", "7019293589", "6757745933"]
 gd_buttons = [
     [InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/II_SB_SIMPLE_II"),
      InlineKeyboardButton("• ʙᴀᴄᴋ •", callback_data="back_to_start"),
-     InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/JARVIS_V_SUPPORT")]
+     InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/SKD_GROUP_2")]
 ]
 
 # Load authorized users from file
@@ -71,7 +71,7 @@ async def start_command_handler(_, msg):
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
     await msg.reply_photo(
-        photo="https://telegra.ph/file/8f6b2cc26b522a252b16a.jpg",
+        photo="https://telegra.ph/file/9532b004b91668556fb15.jpg",
         caption=START_TEXT,
         reply_markup=reply_markup
     )
