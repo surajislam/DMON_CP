@@ -26,9 +26,9 @@ Devs = ["7044783841", "7019293589", "6757745933"]
 
 # Define gd_buttons
 gd_buttons = [
-    [InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/II_SB_SIMPLE_II"),
+    [InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/MR_D_BLACK_DEMON"),
      InlineKeyboardButton("• ʙᴀᴄᴋ •", callback_data="back_to_start"),
-     InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/SKD_GROUP_2")]
+     InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/+WlRSUmzBmSo2Yjdl")]
 ]
 
 # Load authorized users from file
